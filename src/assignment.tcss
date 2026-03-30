@@ -1,0 +1,29 @@
+Header {
+    dock: top;
+}
+
+Footer {
+    dock: bottom;
+}
+
+.hidden {
+    display: none;
+}
+
+#container {
+    margin-top: 5;
+    margin-left: 7;
+    width: 50;
+}
+
+Label {
+    padding: 1;
+}
+
+Buttons {
+    layout: horizontal;
+}
+
+Button {
+    margin: 3;
+}
